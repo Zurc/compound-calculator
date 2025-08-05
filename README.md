@@ -2,7 +2,7 @@
 
 A simple web app for calculating compound interest.
 
-<img src="https://github.com/Zurc/compound-calculator/blob/main/src/public/images/zurc.github.io_compound-calculator_.png" width=50% heigh=50% alt="users-ui">
+<img src="https://github.com/Zurc/compound-calculator/blob/main/public/images/zurc.github.io_compound-calculator_.png" width=50% heigh=50% alt="users-ui">
 
 ## Features
 
